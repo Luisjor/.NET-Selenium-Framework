@@ -19,7 +19,7 @@ namespace ConfigurationProvider.Classes
         {
             var configuration = _root.Get<T>();
 
-            if(configuration is null)
+            if (configuration is null)
                 throw new InvalidCastException($"The {nameof(configuration)} cannot be null");
 
             return configuration;
