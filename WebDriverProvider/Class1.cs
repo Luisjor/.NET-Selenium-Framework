@@ -1,6 +1,6 @@
 ﻿namespace WebDriverProvider
 {
-    public class Class1
+    public class WebDriverProvider
     {
 
     }
