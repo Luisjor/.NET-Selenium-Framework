@@ -14,9 +14,10 @@
 	- Models
 	- Configurations
 	- TestData
-1. Install "Selenium" NuGet Package
-1. Install "WebDriverManager" NuGet Package
-1. Install "Microsoft.Extensions.Configuration" NuGet Package
-1. Install "Microsoft.Extensions.Configuration.Json" NuGet Package
-1. Install "Microsoft.Extensions.Configuration.Binder" NuGet Package
+1. Install Following NuGet Packages
+   - "Selenium"
+   - "WebDriverManager"
+   - "Microsoft.Extensions.Configuration"
+   - "Microsoft.Extensions.Configuration.Json"
+   - "Microsoft.Extensions.Configuration.Binder"
 1. 
